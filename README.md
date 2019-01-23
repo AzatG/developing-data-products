@@ -19,4 +19,12 @@ Link to the app page https://azat.shinyapps.io/ddp4/
 Slidify
 
 Link to the presentation https://github.com/AzatG/developing-data-products/blob/master/ddp4.pdf
-The problem is 
+There are problem with rendering slidigy presentation I uploaded it to RPubs and Github and in both sites HTML version is not rendered.
+So I converted it to PDF that you can see.
+
+Also Slidify has .rmd, .md and html versions of 
+
+Slidify presentation includes 5 slides and I gave small feedback and info about Shiny
+
+Enjoy,
+Hope you liked it
