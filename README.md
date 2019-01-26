@@ -16,15 +16,15 @@ Page has three details
 
 Link to the app page https://azat.shinyapps.io/ddp4/
 
-Slidify
+R Presentation
 
-Link to the presentation https://github.com/AzatG/developing-data-products/blob/master/ddp4.pdf
-There are problem with rendering slidigy presentation I uploaded it to RPubs and Github and in both sites HTML version is not rendered.
-So I converted it to PDF that you can see.
+Link to the presentation https://rpubs.com/Azat/461558
 
-Also Slidify has .rmd, .md and html versions of 
+There were problems with rendering slidify presentations on RPub or Github, result of render was blank.So I converted it to PDF that you can see. ALSO I did it using R Presentation, link is valid. 
 
-Slidify presentation includes 5 slides and I gave small feedback and info about Shiny
+I uploaded R Presentation files + Slidify files that unfortunately did not work.
+
+Presentation includes 5 slides and I gave small feedback and info about Shiny
 
 Enjoy,
 Hope you liked it
