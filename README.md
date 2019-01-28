@@ -18,7 +18,7 @@ Link to the app page https://azat.shinyapps.io/ddp4/
 
 R Presentation
 
-Link to the presentation https://rpubs.com/Azat/461558
+LINK TO THE PRESENTATION:  https://rpubs.com/Azat/461986
 
 There were problems with rendering slidify presentations on RPub or Github, result of render was blank.So I converted it to PDF that you can see. ALSO I did it using R Presentation, link is valid. 
 
